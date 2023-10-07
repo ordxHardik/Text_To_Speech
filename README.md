@@ -23,7 +23,7 @@ To run the Text to Speech Recognition project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/text-to-speech-recognition.git
+   git clone https://github.com/ordxHardik/Text_To_Speech.git
    ```
 
 2. Use GitHub Pages functionality to get the experience now.
